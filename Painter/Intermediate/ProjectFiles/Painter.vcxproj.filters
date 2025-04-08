@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Painter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Painter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PainterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Painter">
+      <UniqueIdentifier>{8C6CF654-098B-3BCF-96DC-9651B5B86B03}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Painter\Painter.Build.cs">
+      <Filter>Source\Painter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Painter\Painter.cpp">
+      <Filter>Source\Painter</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Painter\Painter.h">
+      <Filter>Source\Painter</Filter>
+    </ClCompile>
+    <Filter Include="Source\Painter\Private">
+      <UniqueIdentifier>{C5974566-91E9-32D6-83FC-6469891112CE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Painter\Private\SerializableComponentActor.cpp">
+      <Filter>Source\Painter\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Painter\Public">
+      <UniqueIdentifier>{1F70C63F-F8A6-351A-B6EE-4BB2EB346F1D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Painter\Public\SerializableComponentActor.h">
+      <Filter>Source\Painter\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

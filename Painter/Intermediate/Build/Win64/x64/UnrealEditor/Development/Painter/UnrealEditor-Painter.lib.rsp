@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Painter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealProjects\Painter\Painter\Intermediate\Build\Win64\x64\PainterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:\UnrealProjects\Painter\Painter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Painter\Painter.init.gen.cpp.obj"
+"D:\UnrealProjects\Painter\Painter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Painter\SerializableComponentActor.gen.cpp.obj"
+"D:\UnrealProjects\Painter\Painter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Painter\Painter.cpp.obj"
+"D:\UnrealProjects\Painter\Painter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Painter\SerializableComponentActor.cpp.obj"
+"D:\UnrealProjects\Painter\Painter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Painter\PerModuleInline.gen.cpp.obj"
+"D:\UnrealProjects\Painter\Painter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Painter\Default.rc2.res"
+/OUT:"D:\UnrealProjects\Painter\Painter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Painter\UnrealEditor-Painter.lib"

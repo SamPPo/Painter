@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Painter-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealProjects\Painter\Painter\Intermediate\Build\Win64\x64\PainterEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:\UnrealProjects\Painter\Painter\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Painter\Painter.init.gen.cpp.obj"
+"D:\UnrealProjects\Painter\Painter\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Painter\SerializableComponentActor.gen.cpp.obj"
+"D:\UnrealProjects\Painter\Painter\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Painter\Painter.cpp.obj"
+"D:\UnrealProjects\Painter\Painter\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Painter\SerializableComponentActor.cpp.obj"
+"D:\UnrealProjects\Painter\Painter\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Painter\PerModuleInline.gen.cpp.obj"
+"D:\UnrealProjects\Painter\Painter\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Painter\Default.rc2.res"
+/OUT:"D:\UnrealProjects\Painter\Painter\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Painter\UnrealEditor-Painter-Win64-DebugGame.lib"

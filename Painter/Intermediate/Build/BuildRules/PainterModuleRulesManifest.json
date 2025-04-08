@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealProjects\\Painter\\Painter\\Source\\Painter\\Painter.Build.cs",
+		"D:\\UnrealProjects\\Painter\\Painter\\Source\\Painter.Target.cs",
+		"D:\\UnrealProjects\\Painter\\Painter\\Source\\PainterEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

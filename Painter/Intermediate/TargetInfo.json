@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Painter",
+			"Path": "..\\Source\\Painter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PainterEditor",
+			"Path": "..\\Source\\PainterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

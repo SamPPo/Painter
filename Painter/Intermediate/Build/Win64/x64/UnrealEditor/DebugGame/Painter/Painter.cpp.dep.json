@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\painter\\painter\\source\\painter\\painter.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\painter\\painter\\intermediate\\build\\win64\\x64\\paintereditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\painter\\painter\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\painter\\definitions.painter.h",
+            "d:\\unrealprojects\\painter\\painter\\source\\painter\\painter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

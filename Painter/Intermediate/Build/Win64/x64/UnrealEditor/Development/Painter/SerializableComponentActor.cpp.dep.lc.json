@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\painter\\painter\\source\\painter\\private\\serializablecomponentactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\painter\\painter\\intermediate\\build\\win64\\x64\\paintereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\painter\\painter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\painter\\definitions.painter.h",
+            "d:\\unrealprojects\\painter\\painter\\source\\painter\\public\\serializablecomponentactor.h",
+            "d:\\unrealprojects\\painter\\painter\\intermediate\\build\\win64\\unrealeditor\\inc\\painter\\uht\\serializablecomponentactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
